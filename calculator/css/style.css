@@ -1,0 +1,37 @@
+body {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+div {
+  background-color: black;
+  color: white;
+  width: 20vw;
+  justify-content: center;
+}
+
+.sc {
+  background-color: RGB(173, 189, 176);
+  width: 16vw;
+  padding: 0.5vw;
+  border: 2px solid black;
+  color: rgb(61, 61, 61);
+  margin-bottom: 2vw;
+  border: 3px solid RGB(118, 118, 118);
+}
+
+input {
+  width: 2em;
+  margin: 1px;
+  color: white;
+  background-color: black;
+}
+
+.gris {
+  background-color: RGB(183, 168, 160);
+}
+.rojo {
+  background-color: RGB(111, 59, 59);
+}
