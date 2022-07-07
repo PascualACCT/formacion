@@ -1,6 +1,7 @@
 # MÓDULO METODOLOGÍA ÁGILES DE SCRUM
 
-<p align="center"><strong>Ceremonias Ágiles de Scrum</strong></p></br></br>
+</br>
+<p align="center"><strong>Ceremonias Ágiles de Scrum</strong></p></br>
 
 ## 1ª Sprint Planning
 
